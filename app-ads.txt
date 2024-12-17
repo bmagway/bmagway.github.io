@@ -2009,4 +2009,28 @@ contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
 opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
 motorik.io, 100463, RESELLER
 
-
+sonobi.com, 78fc1c95fe, RESELLER, d1a215d9eb5aee9e
+media.net, 8CUXPR2GT, RESELLER
+conversantmedia.com, 100867, RESELLER, 03113cd04947736d
+contextweb.com,563595,RESELLER,89ff185a4c4e857c
+mediafuse.com, 720, RESELLER
+appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
+sharethrough.com, Z7D3ygNP, RESELLER, d53b998a7bd4ecd2
+sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
+lijit.com, 253233, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11436, RESELLER, 6c8d5f95897a5a3b
+iqzone.com,IQ272,RESELLER
+lijit.com,456186,RESELLER,fafdf38b16bf6b2b
+myfeature.tv, XmYnVLJ23ytAhfaON5n6, RESELLER
+lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
+openx.com, 561470659, RESELLER, 6a698e2ec38604c6
+dobyai.com, 37372, RESELLER
+xapads.com, 211847, RESELLER
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+conversantmedia.com, 100718, RESELLER, 03113cd04947736d
+bidedge.io, 12430300, RESELLER
+rixengine.com, 130103, RESELLER
+supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
+xandr.com, 10490, RESELLER
+yieldmo.com, 3078438591206989879, RESELLER
+pubeasy.io, 110013, RESELLER
