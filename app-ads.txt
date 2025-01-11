@@ -2036,3 +2036,20 @@ yieldmo.com, 3078438591206989879, RESELLER
 pubeasy.io, 110013, RESELLER
 
 openx.com, 561365249, RESELLER, 6a698e2ec38604c6
+
+brightmountainmedia.com, 2686894, RESELLER
+sharethrough.com, 1leEveR6, RESELLER
+video.unrulymedia.com, 667989109, RESELLER
+contextweb.com, 563625, RESELLER, 89ff185a4c4e857c
+media.net, 8CU9U47UY, RESELLER
+thebrave.io, 1234764, DIRECT, c25b2154543746ac
+appnexus.com, 14080, RESELLER, f5ab79cb980f11d1
+video.unrulymedia.com, 3881266972, RESELLER
+contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
+Media.net, 8CU9B72O6, RESELLER
+loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
+inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
+improvedigital.com, 1408, RESELLER
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
+lijit.com, 273050, RESELLER, fafdf38b16bf6b2b
+adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
