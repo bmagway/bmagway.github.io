@@ -2053,3 +2053,5 @@ improvedigital.com, 1408, RESELLER
 opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
 lijit.com, 273050, RESELLER, fafdf38b16bf6b2b
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
+
+google.com, pub-2465808037245154, DIRECT, f08c47fec0942fa0
