@@ -2063,3 +2063,6 @@ xad.com, 963, RESELLER, 81cbf0a75a5e0e9a
 smartadserver.com, 4849, RESELLER, 060d053dcf45cbf3
 tvp.tv, AR40, RESELLER, 1125b6434104a723
 rubiconproject.com,24930,RESELLER,0bfd66d529a55807
+
+rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
+connekt.ai, 2852512, RESELLER
