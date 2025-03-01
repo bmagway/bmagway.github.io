@@ -2068,3 +2068,5 @@ rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
 connekt.ai, 2852512, RESELLER
 
 video.unrulymedia.com, 463431857, DIRECT
+
+mman.kr, 33085, RESELLER
