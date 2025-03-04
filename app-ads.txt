@@ -2070,3 +2070,12 @@ connekt.ai, 2852512, RESELLER
 video.unrulymedia.com, 463431857, DIRECT
 
 mman.kr, 33085, RESELLER
+
+pubmatic.com, 162161, RESELLER, 5d62403b186f2ace
+bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
+algorix.co, 54845, RESELLER, 5b394c12fea27a1d
+acexchange.co.kr, 1854269911, RESELLER
+betweendigital.com, 45656, RESELLER
+taurusx.com, 80066, RESELLER
+inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER, 83e75a7ae333ca9d
+adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
