@@ -2071,6 +2071,7 @@ video.unrulymedia.com, 463431857, DIRECT
 
 mman.kr, 33085, RESELLER
 
+triplelift.com, 7660, RESELLER, 6c33edb13117fd86
 pubmatic.com, 162161, RESELLER, 5d62403b186f2ace
 bidence.com, b8932c93bf4123ee6d969796302a037c, RESELLER
 algorix.co, 54845, RESELLER, 5b394c12fea27a1d
@@ -2079,3 +2080,9 @@ betweendigital.com, 45656, RESELLER
 taurusx.com, 80066, RESELLER
 inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER, 83e75a7ae333ca9d
 adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
+my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
+lijit.com,512006, RESELLER, fafdf38b16bf6b2b #SOVRN
+pubmatic.com, 164891, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
+loopme.com, 13946, RESELLER, 6c8d5f95897a5a3b
+nextmillennium.io, 14807, RESELLER, 65bd090fa4a1e3d6
